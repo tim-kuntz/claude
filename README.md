@@ -15,3 +15,5 @@ cd claude
 ./link_skills.sh
 ```
 
+You will need to restart `claude` to have it pick up the newly added skills.
+
