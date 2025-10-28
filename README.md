@@ -11,6 +11,7 @@ The following will clone this repository to your `src` directory and create a sy
 ```bash
 cd ~/src
 git clone git@github.com:tim-kuntz/claude.git
+cd claude
 ./link_skills.sh
 ```
 
