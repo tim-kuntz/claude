@@ -1,0 +1,9 @@
+{
+  "project": "PROJ",
+  "board": "My Team Board",
+  "assignee": "your.username",
+  "issue_type": "Story",
+  "priority": "Medium",
+  "labels": [],
+  "components": []
+}
